@@ -1,0 +1,19 @@
+{
+  "name": "typescript-legacy",
+  "version": "1.0.0",
+  "description": "Use advanced JavaScript alongside legacy code",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "typescript",
+    "es5",
+    "legacy applications"
+  ],
+  "author": "Chris McKnight <cmckni3@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.2.1"
+  }
+}
