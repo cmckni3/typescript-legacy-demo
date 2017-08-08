@@ -1,5 +1,7 @@
 ## Compile legacy JavaScript using TypeScript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cmckni3/typescript-legacy-demo.svg)](https://greenkeeper.io/)
+
 The `tsconfig.json` provided compiles older JavaScript using
 the TypeScript compiler while allowing newer JavaScript
 features to be used.
